@@ -4,4 +4,6 @@ Idea for quantified self tracker for habits with stopwatch, timer and tally coun
 The app could include its own data visualization but more importantly offer easy integration of the single SQL database to Data Visualization tools like Tableau, Power BI etc and Plotly for making your own dashboards.
 
 
+
+
 ![](quantified-self.drawio.png)
